@@ -42,9 +42,9 @@ From red team simulations to real-world VAPT projects and developing secure remo
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/dharshan-sp-699bb5285)  
-📧 dharshansp1@gmail.com  
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-red?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/dharshansp)
 
+📧 dharshansp1@gmail.com  
 🔗 [GitHub](https://github.com/Dharshan-SP)
 
 ---
