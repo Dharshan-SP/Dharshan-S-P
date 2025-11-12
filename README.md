@@ -30,6 +30,7 @@ From red team simulations to real-world VAPT projects and developing secure remo
   > Built for scanning, assessing, and reporting security flaws in real-time.
   
 - [Automated Encryption & Decryption Software and PII Redactor](https://github.com/Dharshan-SP/livin)
+  > Python-based file encryption tool with integrated PII redactor. Enables redaction and restoration of sensitive content using custom hashing
 
 
 ---
