@@ -51,7 +51,5 @@ From red team simulations to real-world VAPT projects and developing secure remo
 [Portfolio](https://dharshan-sp.github.io/Portfolio/)
 
 📧 dharshansp1@gmail.com  
-🔗 [GitHub](https://github.com/Dharshan-SP)
-
 
 ---
